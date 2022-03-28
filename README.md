@@ -1,4 +1,4 @@
-# Random_9x9_Sudoku
+#somethingInJava😂
 
-Check if a random board 9x9 is a Sudoku board - Educative.io
+1.Check if a random board 9x9 is a Sudoku board - Educative.io
 _java_
